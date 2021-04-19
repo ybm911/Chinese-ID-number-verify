@@ -42,9 +42,9 @@ def check_id(id_number):
 def judge_sex(id_number):
     num = int(id_number[16])
     if (num % 2) == 0:
-        print(" sex is woman")
+        print(" sex is woman ")
     else:
-        print(" sex is man")
+        print(" sex is man ")
 
 
 if __name__ == "__main__":
