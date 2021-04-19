@@ -1,5 +1,4 @@
 # coding:utf-8
-# 36252320010109001X
 import re
 
 
